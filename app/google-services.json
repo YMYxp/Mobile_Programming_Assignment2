@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187798175792",
+    "project_id": "mobile-programming-assig-91c1f",
+    "storage_bucket": "mobile-programming-assig-91c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187798175792:android:da90d6fa76a0e4e922edf5",
+        "android_client_info": {
+          "package_name": "com.example.mobileprogrammingassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187798175792-h5ie3uo5q1icpavfgav549pg7heif5rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzGbKHSuuR3x5nRjrzIE6w0-RwCox-rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187798175792-h5ie3uo5q1icpavfgav549pg7heif5rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mobile Programming Assignment</string>
+    <string name="username">Username</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="registertitle">Register</string>
+    <string name="logintitle" />
+    <string name="login">Login</string>
+    <string name="haven_t_registered_register_here">Haven\'t registered? Register here.</string>
+    <string name="facebook_app_id">222224277040059</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
